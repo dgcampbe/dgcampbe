@@ -1,5 +1,7 @@
 ### Call me dg for short.
 
+I am a Mathematics and Physics double major.
+
 My favorite programming languages:
 * Python
 * Rust
