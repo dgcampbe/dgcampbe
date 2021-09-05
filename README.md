@@ -1,8 +1,9 @@
 # About
 [she/her](pronoun.is/she)
-# GitHub Statisics
+# GitHub Statistics
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dgcampbe&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dgcampbe&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dgcampbe&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 # Geek Code
 -----BEGIN GEEK CODE BLOCK-----
 
