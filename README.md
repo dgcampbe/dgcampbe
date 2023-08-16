@@ -1,7 +1,5 @@
 # About
-* Pronouns
-    * [she/her](https://pronoun.is/she)
-    * [pronouns.page](https://en.pronouns.page/@dgcampbe)
+* Pronouns: [she/her](https://en.pronouns.page/@dgcampbe)
 * Pythonista
 * Musical Composition Hobbyist
 * Trekker
