@@ -15,6 +15,12 @@
 <a style="text-decoration:none" href="https://endeavouros.com/">
     <img height="42" src="https://endeavouros.com/wp-content/uploads/2021/04/eos-icon.png" alt="endeavourOS">
 </a>
+<a style="text-decoration:none" href="https://librewolf.net/">
+    <img height="42" src="https://librewolf.net/icon.svg" alt="librewolf">
+</a>
+<a style="text-decoration:none" href="https://musescore.org/">
+    <img height="42" src="http://s.musescore.org/about/images/musescore-mu-logo-bluebg.svg" alt="musescore">
+</a>
 
 # I also enjoy:
 <a href="https://lichess.org/@/dgcapbe" style="text-decoration:none">
