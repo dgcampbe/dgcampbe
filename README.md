@@ -21,6 +21,12 @@
 <a style="text-decoration:none" href="https://musescore.org/">
     <img height="42" src="http://s.musescore.org/about/images/musescore-mu-logo-bluebg.svg" alt="musescore">
 </a>
+<a style="text-decoration:none" href="https://alacritty.org/">
+    <img height="42" src="https://alacritty.org/alacritty-simple.svg" alt="alacritty">
+</a>
+<a style="text-decoration:none" href="https://fishshell.com/">
+    <img height="42" src="https://fishshell.com/assets/img/Terminal_Logo2_CRT_Flat.png" alt="fishshell">
+</a>
 
 # I also enjoy:
 <a href="https://lichess.org/@/dgcapbe" style="text-decoration:none">
