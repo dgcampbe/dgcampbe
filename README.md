@@ -27,6 +27,9 @@
 <a style="text-decoration:none" href="https://fishshell.com/">
     <img height="42" src="https://fishshell.com/assets/img/Terminal_Logo2_CRT_Flat.png" alt="fishshell">
 </a>
+<a href="https://proton.me/" style="text-decoration:none">
+    <img height="42" src="https://res.cloudinary.com/dbulfrlrz/image/upload/v1693233221/static/logos/proton-logo-p_kftwpv.svg" alt="Proton">
+</a>
 
 # I also enjoy:
 <a href="https://lichess.org/@/dgcapbe" style="text-decoration:none">
@@ -35,10 +38,6 @@
 <a href="https://opensource.dev/" style="text-decoration:none">
     <img height="42" src="https://img.icons8.com/color/100/000000/open-source--v1.png" alt="OpenSource">
 </a>
-<a href="https://proton.me/" style="text-decoration:none">
-    <img height="42" src="https://res.cloudinary.com/dbulfrlrz/image/upload/v1693233221/static/logos/proton-logo-p_kftwpv.svg" alt="Proton">
-</a>
-
 
 # GitHub Statistics
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dgcampbe&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
